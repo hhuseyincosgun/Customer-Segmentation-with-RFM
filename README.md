@@ -2,8 +2,15 @@
 
 ![Blue Grey Audience Segmentation Illustration Instagram Post](https://github.com/hhuseyincosgun/Customer-Segmentation-with-RFM/assets/21257660/fe2a607a-948e-4d94-9394-300fc5d12253)
 
-
 Customer segmentation is a way to identify groups of similar customers. Customers can be segmented on a wide variety of characteristics, such as demographic information, purchase behavior, and attitudes. 
+
+The following libraries are used in the code:
+
+1. [NumPy (np)](https://numpy.org/doc/)
+2. [Pandas (pd)](https://pandas.pydata.org/docs/)
+3. [Matplotlib.pyplot (plt)](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.html)
+4. [Seaborn (sns)](https://seaborn.pydata.org/)
+5. [Scikit-learn (sklearn)](https://scikit-learn.org/stable/)
 
 Leveraging RFM analysis enables personalized marketing, fosters loyalty, and drives revenue growth. Additionally, it aids in targeted promotions and customer retention efforts, identifying at-risk customers. In essence, RFM analysis empowers strategic decision-making, unlocking growth opportunities and fostering competitiveness.
 
